@@ -23,6 +23,8 @@ and press enter. Once it finishes installing, restart your computer.
 Open up the folder containing all the files. Right click the file called *setup.py* and navigate to 'Open with', and press 'Python'. Follow the setup instructions. **Please double check that the information you entered is correct.**
 
 ### Running The Bot
-As soon as the preorder goes live, right click the file named 'main.py' and navigate to 'Open with', and press 'Python'. Please run the bot before the preorder goes live to make sure that it loads up the browser. The bot should not work yet, because the preorders haven't gone live.
+**Right before the preorder starts** open up the Python application that was downloaded. Go to File > Open and navigate to where you stored 'main.py', and open it. When the preorder goes live, go to Run > Run Module. Let the bot order the iPhone for you!
 
-//If for some reason that the bot stops working, you would need to take over and do it manually. This shouldn't be the case, but anything can happen, such as a time-out error (from too many people trying to buy the iPhone). Either way, you are pretty much guaranteed to get the iPhone because you will be very far ahead in the preordering process.
+Please run the bot before the preorder goes live to make sure that it loads up the browser. The bot should not work yet, because the preorders haven't gone live.
+
+If for some reason that the bot stops working, you would need to take over and do it manually. This shouldn't be the case, but anything can happen, such as a time-out error (from too many people trying to buy the iPhone). Either way, you are pretty much guaranteed to get the iPhone because you will be very far ahead in the preordering process.
