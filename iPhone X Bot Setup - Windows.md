@@ -1,6 +1,8 @@
 # iPhone X Bot Setup - Windows
 **Before setting up the bot, please go to your Apple account and add your credit card information as well as your shipping information. This is so the bot can check you out faster!**
 
+Also, please have the latest version of Chrome installed. This will only work on Chrome!
+
 ### Installing Python
 Python is the programming language that the bot was written in.
 The first step is to figure out if you have an AMD or Intel processor. You can figure out which one you have by following the steps on this website: 
@@ -18,6 +20,10 @@ Selenium is a codebase that this bot relies on to run. It can be installed to Py
 > pip install -U selenium
 
 and press enter. Once it finishes installing, restart your computer.
+
+Download this file: https://chromedriver.storage.googleapis.com/2.33/chromedriver_win32.zip
+
+and then extract this file into the directory where the scripts are.
 
 ### Running The Setup File
 Open up the folder containing all the files. Right click the file called *setup.py* and navigate to 'Open with', and press 'Python'. Follow the setup instructions. **Please double check that the information you entered is correct.**
