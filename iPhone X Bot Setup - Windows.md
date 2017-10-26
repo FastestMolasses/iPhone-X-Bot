@@ -9,9 +9,9 @@ The first step is to figure out if you have an AMD or Intel processor. You can f
 
 > https://amiduos.com/support/knowledge-base/article/how-do-i-know-if-i-have-an-intel-or-amd-cpu
 
-If you have an AMD processor, then download: https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64.exe
+If you have an AMD processor, then download: https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe
 
-If you have an Intel processor, then download: https://www.python.org/ftp/python/3.5.1/python-3.5.1.exe
+If you have an Intel processor, then download: https://www.python.org/ftp/python/3.6.3/python-3.6.3.exe
 
 Once you download the file, open it up. At the bottom, check the box saying 'Add Python 3.6 to PATH'. Then press 'Install Now'. When installation is finished, press 'Disable path length limit', then press 'close'. Restart your computer.
 
