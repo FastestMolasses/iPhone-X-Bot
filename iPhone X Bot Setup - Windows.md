@@ -32,3 +32,5 @@ Open up the folder containing all the files. Right click the file called *setup.
 **Right before the preorder starts** open up the Python application that was downloaded. Go to File > Open and navigate to where you stored 'main.py', and open it. When the preorder goes live, go to Run > Run Module. Let the bot order the iPhone for you!
 
 Please run the bot before the preorder goes live to make sure that it loads up the browser. The bot should not work yet, because the preorders haven't gone live.
+
+Note: If the bot pauses, for longer than 20 seconds, then please continue the pre-order manually. This shouldn't happen because Apple's servers are very good, especially on pre-order pages.
