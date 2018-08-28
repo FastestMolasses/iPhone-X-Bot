@@ -11,7 +11,7 @@ def checkInput(inp, x):
 
 # Possible inputs
 carriers = ['sprint', 'tmobile', 'att', 'verizon']
-colors = ['space-gray', 'silver']
+colors = ['space-gray', 'silver']-
 storages = ['64gb', '256gb']
 
 # Intro
